@@ -1,4 +1,4 @@
-#!/home/hiatchiro/djangogirls/myvenv/bin/python
+#!/home/hiatchiro/djangosite/myvenv/bin/python
 
 import sys
 import getopt
