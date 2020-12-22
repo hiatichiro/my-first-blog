@@ -1,2 +1,1 @@
-pip install include
 Django~=2.2.4
